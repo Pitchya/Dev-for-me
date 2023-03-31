@@ -28,3 +28,7 @@ foreach (string data in name)                   // loop.for.array(datatype newco
 }
 Console.WriteLine("Thank you");
 
+if(true){
+     Console.WriteLine("max");
+}
+
